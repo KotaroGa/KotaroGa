@@ -57,3 +57,14 @@ WHERE status = 'hidden'
 AND protocol IN ('ssh', 'https', 'git');
 
 -- 3 rows returned (encrypted)
+
+## 💰 CRYPTO DONATIONS
+
+If you like my work and want to support it, you can do so with cryptocurrencies.  
+Your contributions help maintain projects and continue creating free content ❤️
+
+[🟢] BITCOIN (BTC): `bc1qlhup35a64qq0e6uc2v07s64tzjrmj8j9e24jmr`  
+[🟢] ETHEREUM (ETH): `0x6D4DB084eaC2cF9D4BbF04FdCBd3e737FDD36dcc`  
+[🟢] SOLANA (SOL): `51ueAbc6TC52UExxTKRZuN6hMPUtu7aoYSKuiWnLSci2`
+
+[💡] NOTE: Addresses remain active. Check profile for updates.
